@@ -3,6 +3,7 @@
 ###### Run `main_mixer.py` to run the GUI
 * The software can show two images. For each image, the software should two displays one fixed display for the image, while the second display can show several components based on a drop-menu selection of 1) FT Magnitude, 2) FT Phase, 3) FT Real component, 4) FT Imaginary component.
 <br />
+
 ![img](ScreenShots/Screenshot1.png)
 
 * The two images have the same size. Otherwise, the software will give an error message.
